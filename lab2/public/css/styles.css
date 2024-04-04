@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: white;
+    font-family: sans-serif;
+}
+
+h2 a{
+    color: white;
+    text-decoration: none;
+}
+.nav-bar{
+     
+    background-image: url('/imagenes/banner.jpg') ;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    color: white;
+}
+.lista{
+    list-style-type: none;
+
+}
+.lista li a{
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+    display: block;
+}
+
+.lista{
+    margin: 0;
+    padding: 0;
+}
+
+.lista li a:hover{
+      text-decoration: underline;
+}
+
+
+.seccion1{
+    background-image: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 50px;
+    height: 100px;
+    object-fit:cover;
+}
