@@ -7,21 +7,27 @@
 }
 
 body{
-    background-color: white;
+   
+   background-color: #8dc6ff;
     font-family: sans-serif;
 }
 
-h2 a{
-    color: white;
-    text-decoration: none;
-}
+
 .nav-bar{
      
-    background-image: url('/imagenes/banner.jpg') ;
+    background-color: #22313f;
     display: flex;
     justify-content: space-around;
     padding: 1rem;
     color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    cursor: pointer;
+    
 }
 .lista{
     list-style-type: none;
@@ -29,7 +35,7 @@ h2 a{
 }
 .lista li a{
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     text-decoration: none;
     display: block;
 }

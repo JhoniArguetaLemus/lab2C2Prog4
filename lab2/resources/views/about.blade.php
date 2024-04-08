@@ -23,7 +23,7 @@
             </figure>
             <div class="nombre">
                 <h3>Sentelmy Enrique Paiz Parada</h3>
-                <h3>Carnet: -----</h3>
+                <h3>Carnet: SMIS043320</h3>
             </div>
         
            </div>
@@ -37,7 +37,21 @@
             </figure>
             <div class="nombre">
                 <h3>Bryan Orlando Giron Argueta</h3>
-                <h3>Carnet: -----</h3>
+                <h3>Carnet: SMIS621819</h3>
+            </div>
+        
+           </div>
+
+
+
+
+        <div class="integrante">
+            <figure>
+            <img src="/imagenes/person.png" alt="" width="200px">
+            </figure>
+            <div class="nombre">
+                <h3>Fernado Josue Rodriguez Alvares</h3>
+                <h3>Carnet:SMSS114322  </h3>
             </div>
         
            </div>
@@ -54,7 +68,7 @@
             </figure>
             <div class="nombre">
                 <h3>Arnold David Villatoro Santos</h3>
-                <h3>Carnet: -----</h3>
+                <h3>Carnet: SMSS032621</h3>
             </div>
         
            </div>

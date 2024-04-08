@@ -10,7 +10,7 @@
     <header>
          <nav class="nav-bar">
             <div>
-                <h2><a href="#">Home</a></h2>
+                <a href="#">Home</a>
             </div>
 
             <ul class="lista">
