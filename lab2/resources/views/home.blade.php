@@ -8,30 +8,28 @@
 </head>
 <body>
     <header>
-         <nav class="nav-bar">
-            <div>
-                <a href="#">Home</a>
-            </div>
-
-            <ul class="lista">
-               
-                <li><a href="{{route('about') }}">About</a></li>
-
-            </ul>
-
-         </nav>
-
+            
+    <h1>SALUDTECH</h1>
     </header>
 
     <main>
 
-       <section class='seccion1'>
-        <h1>Tecnología para la Salud: Abordando los Desafíos de Gestión en El Salvador</h1>
-
+       <section class='contenido'>
+        
+        <h2>Descripcion del Proyecto</h2>
+        <p>SaludTech es un proyecto dedicado a mejorar la gestión de recursos de salud en El Salvador. Nuestro objetivo es implementar soluciones tecnológicas innovadoras que optimicen la atención médica y mejoren el acceso a servicios de salud de calidad para todos los salvadoreños.</p>
+         <center><img src="/imagenes/fondo.jpeg" alt=""></center>
 
        </section>
 
     </main>
-    
+
+            <footer>
+                
+            <h3>Conocenos</h3>
+            <a href="{{route('about') }}">About</a>
+         
+
+            </footer>
 </body>
 </html>
